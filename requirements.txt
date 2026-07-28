@@ -1,0 +1,15 @@
+flask
+pandas
+numpy
+matplotlib
+seaborn
+sentence-transformers
+transformers
+torch
+huggingface-hub
+kagglehub
+streamlit
+jupyter
+ipykernel
+chromadb
+groq
