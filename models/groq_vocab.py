@@ -14,7 +14,7 @@ Return:
 - definition
 - 3 synonyms
 - 1 example sentence
-- difficulty (1-5, 1 = very easy, 5 = very hard)
+- difficulty (1-5, 1 = very easy, 5 = very very hard)
 
 Format as JSON with keys:
 definition, synonyms, example, difficulty.
